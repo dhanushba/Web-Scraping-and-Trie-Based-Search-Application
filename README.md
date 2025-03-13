@@ -24,7 +24,7 @@ The **Web Scraping and Trie-Based Search Application** is a **Spring Boot** proj
 ## Installation & Setup
 ### **1. Clone the Repository**
 ```bash
-git clone <repository-url>
+git clone https://github.com/dhanushba/Web-Scraping-and-Trie-Based-Search-Application.git
 cd webscraping_project
 ```
 
@@ -146,16 +146,4 @@ mvn test
 ✅ **RESTful API Design** – Proper HTTP methods and status codes.  
 
 ---
-
-## License
-This project is licensed under the **MIT License**.
-
----
-
-## Contributors
-- **Your Name** – Developer & Maintainer  
-
-For any questions or contributions, feel free to raise an issue or submit a pull request.
-
-🚀 **Happy Coding!** 🚀
 
